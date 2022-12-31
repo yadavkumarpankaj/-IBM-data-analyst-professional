@@ -3,7 +3,7 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yadavkumarpankaj) 
 
 
-# Excel Basics for Data Analysis <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
+# Python Project for Data Science <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 
 ## About this Project
